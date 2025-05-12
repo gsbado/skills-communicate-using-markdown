@@ -6,3 +6,8 @@
 ###### h6 is the smallest header you can use in Markdown
 
 ![Image of Goku](https://external-preview.redd.it/1tnFKQh-9QNSJ8iNMDd2qGSKK-mZm6J5plZzSDko1Cc.jpg?width=1080&crop=smart&auto=webp&s=01992db5baee946f4dcc1888ca98c40e8797ec83)
+
+### Example
+```python
+def greet(name):
+    return f"Hello, {name}! I am Goku!"
