@@ -11,3 +11,12 @@
 ```python
 def greet(name):
     return f"Hello, {name}! I am Goku!"
+```
+
+### Task List
+- [x] Create a pull request  
+- [x] Edit the `index.md` file
+- [x] Add a image
+- [x] Add a code example  
+- [ ] Use Markdown to create a task list  
+- [ ] Celebrate completing this exercise 🎉
